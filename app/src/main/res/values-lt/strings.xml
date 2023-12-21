@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vizitine kortelė</string>
+    <string name="affirmation1">Socialinės medijos aplikacija</string>
+    <string name="affirmation2">The Glitch žaidimas</string>
+    <string name="affirmation3">Studento dienynas</string>
+    <string name="affirmation4">Spalvų invertavimo įrankis</string>
+    <string name="affirmation1.1">Socialinės medijos aplikacijos tikslas – sujungti žmones ir palengvinti bendravimą, dalijimąsi turiniu ir socialinę sąveiką virtualioje aplinkoje. Vartotojai gali kurti profilius, susisiekti su draugais ir sekti įžymybes ar influencerius. Programa leidžia vartotojams skelbti naujienas, dalytis daugialypės terpės turiniu, bendrauti spustelėdami „Patinka“ ir komentuoti.</string>
+    <string name="affirmation2.2">Sukūriau platformerinį žaidimą „The Glitch“, naudodamas Unity ir C# programavimo kalbą. Šis žaidimas paskatins žaidėjus pagerinti erdvinę vizualizaciją, greitai reaguoti į problemas ir atitinkamai jas spręsti. Jis taip pat moko žaidėjus apie kompiuterinius virusus ir moko būti įžvalgiems, kuo pasitiki.</string>
+    <string name="affirmation3.3">Kursinių darbų metu sukūriau elektroninį dienyną. Tai paprasta internetinė platforma, skirta padėti konkrečiai aukštajai mokyklai tvarkyti informaciją apie mokinius ir akademinius įrašus. Programa leidžia saugoti informaciją apie studentus, dėstytojus ir kursus. Projektas turi patogią sąsają ir patogias funkcijas.</string>
+    <string name="affirmation4.4">Šis įrankis gali būti naudojamas kuriant nuotraukų redagavimo programinę įrangą arba jis gali padėti silpnaregiams lengvai suvokti vaizdo turinį. Projektu siekiama sukurti programą, kuri atliktų inversijos operaciją, konvertuodama kiekvieno pikselio spalvą į priešingą spalvų spektro spalvą. Tai bus pasiekta keičiant kiekvieno pikselio ryškumo reikšmę kiekviename spalvų kanale.</string>
+    <string name="MyName">Vestina Bertašiūtė</string>
+    <string name="MyEmail">vestina.bertasiute@gmail.com</string>
+    <string name="view_cv">CV</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="contact_me">Susisiekite</string>
+    <string name="qr">QR</string>
+    <string name="send_email">Siųsti El. laišką</string>
+    <string name="message">Žinutė</string>
+    <string name="subject">Tema</string>
+    <string name="name">Vardas</string>
+    <string name="qr_code">QR Kodas</string>
+    <string name="scan_me_to_get_the_app">Programėlės atsisiuntimas</string>
+    <string name="qr_scan_me">QR SKANUOK MANE</string>
+    <string name="logo_portfolio">Portfolio</string>
+    <string name="home">PRADINIS</string>
+    <string name="cv">CV</string>
+    <string name="basic_information">Informacija</string>
+    <string name="name_2">"Vardas: "</string>
+    <string name="myName">Vestina Bertašiūtė</string>
+    <string name="email">"El. paštas: "</string>
+    <string name="Email">vestina.bertasiute@gmail.com</string>
+    <string name="address">"Adresas: "</string>
+    <string name="vilnius">Vilnius</string>
+    <string name="about_me">"Apie Mane: "</string>
+    <string name="AboutMeShort">Sveiki! ✨ Esu Vestina, šiuo metu studijuoju paskutiniame Vilniaus Technikos Universitete, specializuojamės multimedijos ir kompiuterinio dizaino srityse. 🎓
+
+Aš aistringai mėgstu kurti skaitmenines patirtis, sujungiančias meno ir technologijų pasaulius. Kai kuriuos mano projektus kodavimo, daugialypės terpės ir kompiuterinio dizaino srityse galite peržiūrėti mano „GitHub“ portfelyje. 🌟
+
+Aktyviai ieškau dinamiškos darbo aplinkos, kurioje galėčiau pritaikyti savo įgūdžius leisdamasis į nuolatinio mokymosi kelionę. Jei ieškote žmogaus, kuriam patinka kūrybiškumas ir naujovės, susisiekime! 🚀🌍</string>
+    <string name="education">Išsilavinimas</string>
+    <string name="bachelors_degree">Bakalauro studijos</string>
+    <string name="vilnius_tech_2020_2024">Vilnius Tech 2020 - 2024</string>
+    <string name="job_experiences">Darbo Patirtis</string>
+    <string name="administrator">Turinio kokybės specialistė</string>
+    <string name="adminBio">2022 - 2023</string>
+    <string name="notes">Užrašai</string>
+    <string name="enter_your_note">Įveskite užrašą</string>
+    <string name="save_note">Išsaugoti užrašą</string>
+    <string name="add_note">Pridėti užrašą</string>
+    <string name="english">Anglų</string>
+    <string name="lithuanian">Lietuvių</string>
+    <string name="select_language">Pasirinkti kalbą</string>
+</resources>
